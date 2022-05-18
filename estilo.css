@@ -344,6 +344,7 @@ main
 .articulo p {
     margin: 20px 0px;
     font-size: 20px;
+    text-align: justify;
 }
 
 .separador {
