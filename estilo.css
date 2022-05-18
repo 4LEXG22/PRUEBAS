@@ -298,6 +298,7 @@ main
 
 .articulo ol li {
     margin: 20px 10px;
+    text-align: justify;
 }
 
 .articulo h3 {
@@ -339,6 +340,7 @@ main
 
 .articulo ul li {
     margin: 20px 10px;
+    text-align: justify;
 }
 
 .articulo p {
