@@ -415,8 +415,10 @@ main
     justify-content: center;    
 }
 
-.imagen_bottom {
-    width: 100%;
+.image_bottom {
+    width: 90%;
+    display: flex;
+    margin: auto;
 }
 
 /*------Slider de página Nosotros------*/
